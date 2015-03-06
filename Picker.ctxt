@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ addRed()
+comment1.params=
+comment1.target=void\ addBlue()
+comment2.params=name\ x\ y
+comment2.target=void\ addGreen(java.lang.String,\ int,\ int)
+numComments=3
